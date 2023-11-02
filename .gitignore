@@ -1,0 +1,8 @@
+# Ignora la carpeta img_cache#
+img_cache
+
+# Ignora todos los archivos de texto#
+.texto
+
+# ignora el archivo background.jpg#
+background.jpg
