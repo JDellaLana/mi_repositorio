@@ -2,7 +2,7 @@
 img_cache
 
 # Ignora todos los archivos de texto#
-.texto
+*.txt
 
 # ignora el archivo background.jpg#
 background.jpg
